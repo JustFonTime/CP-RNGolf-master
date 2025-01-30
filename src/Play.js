@@ -120,6 +120,7 @@ class Play extends Phaser.Scene {
         this.moveObstacle(this.oneWay)
     }
 
+    //function to move an obstacle across the screen but withing screen edges
     moveObstacle(sprite){
         if(sprite.x >= width - sprite.width / 2){
             sprite.setVelocityX(-200)

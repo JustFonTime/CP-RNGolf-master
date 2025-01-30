@@ -1,6 +1,6 @@
 // Code Practice: RNGolf
 // Name: Justin Fong
-// Date:    1/29/2025
+// Date: 1/29/2025
 
 'use strict'
 
